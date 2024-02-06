@@ -1,5 +1,13 @@
 ### Hi there! I'm Fernando Ezequiel Albornoz 👋
 
+#I am a Full Stack Developer and Computer Engineering student.
+
+#For more information about me, see my portfolio.
+
+#If you have any interest in my work on the projects, contact me by these means
+
+
+
 <!--
 **fealbornoz/fealbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
